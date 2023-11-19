@@ -21,6 +21,12 @@ License
 
 This project is licensed under the MIT License.
 
+Links
+-----
+
+* `Download <https://pypi.org/project/simple-frame/#files>`_
+* `Source <https://github.com/johannes-programming/simple_frame>`_ 
+
 Credits
 -------
 - Author: Johannes

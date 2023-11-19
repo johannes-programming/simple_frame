@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "simple_frame"
-version = "0.0.0"
+version = "0.0.1"
 description = "Simpler version of dataframes"
 readme = "README.rst"
 authors = [
@@ -23,3 +23,7 @@ requires-python = ">=3.11"
 
 [project.license]
 file = "LICENSE.txt"
+
+[project.urls]
+Source = "https://github.com/johannes-programming/simple_frame"
+Download = "https://pypi.org/project/simple-frame/#files"
